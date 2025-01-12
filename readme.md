@@ -27,10 +27,11 @@ Model: maintains the data and behavior of an application\
 View: displays the model in the ui\
 Controller: serves as an interface between view & model components
 
-## TodoMVC specific details
+![alt text](<src/assets/Screenshot (172).png>)
+![alt text](<src/assets/Screenshot (173).png>)
+![alt text](<src/assets/Screenshot (174).png>)
+![alt text](<src/assets/Screenshot (175).png>)
 
-- All styles are included from local packages: [todomvc-app.css](https://www.npmjs.com/package/todomvc-app-css) & [todomvc-common](https://www.npmjs.com/package/todomvc-common).
-- A hash router was used to ensure the app has consistent behavior with other apps.
 
 ## Development server
 
